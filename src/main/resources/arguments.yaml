@@ -19,7 +19,7 @@ LOGIN_URL: https://login.salesforce.com/
 # Your Salesforce Username
 USERNAME: aaron@agentforce.demo
 # Your Salesforce Password
-PASSWORD: ###### // TODO 私のいつものPW
+PASSWORD: salesforce1
 # Your Salesforce org Tenant ID
 TENANT_ID: null
 # Your Salesforce Session Token
